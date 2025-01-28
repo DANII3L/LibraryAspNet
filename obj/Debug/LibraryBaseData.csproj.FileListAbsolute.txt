@@ -1,0 +1,26 @@
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\LibraryBaseData.pdb
+C:\Users\dmartin\source\repos\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.CoreCompileInputs.cache
+C:\Users\dmartin\source\repos\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.CopyComplete
+C:\Users\dmartin\source\repos\LibraryBaseData\obj\Debug\LibraryBaseData.pdb
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dmartin\source\repos\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.AssemblyReference.cache
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\LibraryBaseData.exe.config
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\LibraryBaseData.exe
+C:\Users\dmartin\source\repos\LibraryBaseData\obj\Debug\LibraryBaseData.exe
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\System.Memory.dll
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmartin\source\repos\LibraryBaseData\bin\Debug\System.Buffers.dll
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\LibraryBaseData.pdb
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.AssemblyReference.cache
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.CoreCompileInputs.cache
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\obj\Debug\LibraryBaseData.csproj.CopyComplete
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\obj\Debug\LibraryBaseData.pdb
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\LibraryBaseData.dll.config
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\bin\Debug\LibraryBaseData.dll
+C:\Users\bedom\OneDrive\Documentos\Daniel M\Trabajo\WebService\LibraryBaseData\obj\Debug\LibraryBaseData.dll
